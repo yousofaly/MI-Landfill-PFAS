@@ -7,4 +7,6 @@ https://www.bridgemi.com/sites/default/files/mwra-technical-report.pdf
 
 Use a notebook viewer to interact with the map.
 
+https://colab.research.google.com/github/yousofaly/MI-Landfill-PFAS/blob/master/LandfillMap.ipynb#scrollTo=TkMcJgPrSKMJ&line=1&uniqifier=1
+
 ![Folium Map](https://user-images.githubusercontent.com/56979366/109515461-b532e400-7a6c-11eb-993a-eb4fcdeb0e8d.png)
